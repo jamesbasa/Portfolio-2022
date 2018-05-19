@@ -1,13 +1,11 @@
 # basic options
-title: James Basa
-author: James Basa
-email: nbasa@ucsd.edu
-description: A wonderful site
-twitter_username: jamesbasa
-github_username:  jamesbasa
+# title: James Basa
+# author: James Basa
+# email: nbasa@ucsd.edu
+# description: A wonderful site
+# twitter_username: jamesbasa
+# github_username:  jamesbasa
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
-
-# theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
