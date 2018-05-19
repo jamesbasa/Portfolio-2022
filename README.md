@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 [About](about.md)
-[About](_posts/2018-05-19-first-post.md)
+[Posts](_posts/2018-05-19-first-post.md)
 
 You can use the [editor on GitHub](https://github.com/jamesbasa/jamesbasa.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
