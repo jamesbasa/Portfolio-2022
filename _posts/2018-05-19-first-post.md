@@ -3,5 +3,6 @@ layout: post
 title: My First Post
 ---
 
-This is it!
-What a wonderful post!
+First post!
+
+Go to [Home page](/)
