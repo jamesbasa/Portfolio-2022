@@ -10,7 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 ![Image](Contemporary.pdf)
-![Image](First\ Time.pdf)
+![Image](First_Time.pdf)
 
 ```markdown
 Syntax highlighted code block
