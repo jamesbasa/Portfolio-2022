@@ -1,10 +1,11 @@
 # basic options
 title: James Basa
 author: James Basa
-description: B.S. in Computer Engineering<br />University of California, San Diego
+description: B.S. in Computer Engineering<br>University of California, San Diego
 # email: nbasa@ucsd.edu
-# twitter_username: jamesbasa
 # github_username:  jamesbasa
+
+![IEEE](/IEEE.JPG)
 
 # Build settings
 markdown: kramdown
