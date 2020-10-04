@@ -1,23 +1,21 @@
-[Projects](/projects/projects.md)  
-[Publications](/publications.md)  
-[Miscellaneous](/miscellaneous.md)  
-
 <!---
-You can use the [editor on GitHub](https://github.com/jamesbasa/jamesbasa.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-[Markdown](https://guides.github.com/features/mastering-markdown/) block below
+[Markdown](https://guides.github.com/features/mastering-markdown/)
 # Header 1
 ## Header 2
 ### Header 3
 [Link](url) and ![Image](src)
 **Bold** and _Italic_ and `Code` text
---->
+-->
+[Projects](/projects/projects.md)  
+[Publications](/publications.md)  
+[Miscellaneous](/miscellaneous.md)  
+
 
 # About Me
 
 Having been raised in the Bay Area, I decided to pursue my college education in SoCal. At UC San Diego, I am studying Computer Engineering and minoring in Music with a Spring 2021 expected graduation. Research, humanitarian-focused projects, and workshops have allowed me to develop my experience in computer science and engineering outside of class.
 
-Recently, I've worked as a summer Coding Coach at theCoderSchool and a teacher Best Brains. I believe in passing on my knowledge while strengthening my communication skills.
+Recently, I've worked as a summer Coding Coach at theCoderSchool and a teacher at Best Brains. I believe in passing on my knowledge while strengthening my communication skills.
 
 I love producing music in my free time and watching and playing sports.
 
