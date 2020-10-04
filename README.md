@@ -21,18 +21,17 @@ Recently, I've worked as a theCoderSchool Coding Coach and Best Brains teacher. 
 
 I love producing music in my free time and watching and playing sports.
 
-Email: [jamesbasanmhs@gmail.com](mailto:jamesbasanmhs@gmail.com)
 
 # Highlights
 
 ```markdown
 
-**ReMap**
-- macOS interface that uses Accessibility APIs and speech recognition for contextual assistance on search queries [Swift & JavaScript]
-**EMSTrack**
-- EMS dispatching system for Cruz Roja Tijuana's limited ambulances [Java, JavaScript, & XML]
-**TryClubs**
-- Android app that allows students to discover and advertise student organizations [Java & XML]
+__ReMap__ [`Swift & JavaScript`]
+- macOS interface that uses Accessibility APIs and speech recognition for contextual assistance on search queries
+__EMSTrack__ [`Java, JavaScript, & XML`]
+- EMS dispatching system for Cruz Roja Tijuana's limited ambulances
+__TryClubs__ [`Java & XML`]
+- Android app that allows students to discover and advertise student organizations
 **+ more!**
 
 ```
