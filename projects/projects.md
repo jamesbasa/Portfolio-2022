@@ -24,6 +24,7 @@ For our CSE 110 Software Engineering project, my group built **TryClubs**, an An
 
 <img src="/projects/TryClubs_discover.png" alt="TryClubs Discover" width="275"/>
 <img src="/projects/TryClubs_info.png" alt="TryClubs Info" width="275"/>
+[![TryClubs Video](https://img.youtube.com/vi/-6ixENeMHvc&feature=youtu.be/0.jpg)](https://www.youtube.com/watch?v=-6ixENeMHvc&feature=youtu.be)
 <!---
 ![TryClubs Discover](/projects/TryClubs_discover.png)
 ![TryClubs Info](/projects/TryClubs_info.png)
