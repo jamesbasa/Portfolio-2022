@@ -1,7 +1,7 @@
 [Projects](/projects/projects.md)  
 [Publications](/publications.md)  
 [Miscellaneous](/miscellaneous.md)  
-<!--
+<!---
 You can use the [editor on GitHub](https://github.com/jamesbasa/jamesbasa.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 [Markdown](https://guides.github.com/features/mastering-markdown/) block below
@@ -22,13 +22,15 @@ Recently, I've worked as a summer Coding Coach at theCoderSchool and a teacher B
 I love producing music in my free time and watching and playing sports.
 
 
-
 # Highlights
 
 **ReMap** [`Swift & JavaScript`]
-- macOS interface that uses Accessibility APIs and speech recognition for contextual assistance on search queries\
+- macOS interface that uses Accessibility APIs and speech recognition for contextual assistance on search queries  
+
 **EMSTrack** [`Java, JavaScript, & XML`]
-- EMS dispatching system for Cruz Roja Tijuana's limited ambulances\
+- EMS dispatching system for Cruz Roja Tijuana's limited ambulances 
+
 **TryClubs** [`Java & XML`]
-- Android app that allows students to discover and advertise student organizations\
+- Android app that allows students to discover and advertise student organizations 
+
 **& more!**
