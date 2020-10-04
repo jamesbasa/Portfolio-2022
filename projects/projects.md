@@ -31,8 +31,8 @@ For our CSE 110 Software Engineering project, my group built **TryClubs**, an An
 
 I got to build cool circuits through several IEEE workshops. Here, you can see 2 such circuits — an Arduino piano and a POV light display that spells out "Hello World" when rotating.
 
-<img src="/projects/arduino_piano.png" alt="Arduino Piano" width="275"/>
-<img src="/projects/pov_light.png" alt="POV Light Display" width="275"/>
+<img src="/projects/arduino_piano.JPG" alt="Arduino Piano" width="275"/>
+<img src="/projects/pov_light.JPG" alt="POV Light Display" width="275"/>
 
 
 Back to the [Home Page](/)
