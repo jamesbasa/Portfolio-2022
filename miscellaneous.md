@@ -10,11 +10,11 @@ title: Miscellaneous
 
 I've been producing music since 2016. Listen to my work below!
 
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) &nbsp;[YouTube](https://youtube.com/user/therealjamestar)
+![Guitar](https://www.flaticon.com/svg/static/icons/svg/2892/2892202.svg) &nbsp;[YouTube](https://youtube.com/user/therealjamestar)
 
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) &nbsp;[Beatstars](https://jamestar.beatstars.com/)
+![Guitar](https://www.flaticon.com/svg/static/icons/svg/2892/2892202.svg) &nbsp;[Beatstars](https://jamestar.beatstars.com/)
 
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) &nbsp;[Instagram](https://www.instagram.com/jamestarbeats/)
+![Guitar](https://www.flaticon.com/svg/static/icons/svg/2892/2892202.svg) &nbsp;[Instagram](https://www.instagram.com/jamestarbeats/)
 
 
 
