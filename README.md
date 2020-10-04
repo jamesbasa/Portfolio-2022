@@ -1,6 +1,7 @@
 [Projects](/projects/projects.md)  
 [Publications](/publications.md)  
 [Miscellaneous](/miscellaneous.md)  
+
 <!---
 You can use the [editor on GitHub](https://github.com/jamesbasa/jamesbasa.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -10,8 +11,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Header 3
 [Link](url) and ![Image](src)
 **Bold** and _Italic_ and `Code` text
--->
-
+--->
 
 # About Me
 
