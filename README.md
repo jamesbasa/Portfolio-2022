@@ -23,12 +23,12 @@ I love producing music in my free time and watching and playing sports.
 # Highlights
 
 **ReMap** [`Swift & JavaScript`]
-- macOS interface that uses Accessibility APIs and speech recognition for contextual assistance in searching for learning videos  
+- macOS interface that uses Accessibility APIs and speech recognition for contextual assistance in searching for learning videos and navigating them  
 
 **EMSTrack** [`Java, JavaScript, & XML`]
-- EMS dispatching system for Cruz Roja Tijuana's 13 ambulances that allowed for faster responses to emergencies
+- EMS dispatching system for Cruz Roja Tijuana's 13 ambulances that allowed for faster responses to emergencies and tracking relevant information
 
 **TryClubs** [`Java & XML`]
 - Android app that allows students to discover and advertise student organizations in order to improve the social environment 
 
-**& more!**
+**& more! (under [Projects](/projects/projects.md))**
