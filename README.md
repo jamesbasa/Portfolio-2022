@@ -13,22 +13,22 @@
 
 # About Me
 
-Having been raised in the Bay Area, I decided to pursue my college education in SoCal. At UC San Diego, I am studying Computer Engineering and minoring in Music with a Spring 2021 expected graduation. Research, humanitarian-focused projects, and IEEE workshops have allowed me to develop my experience in computer science and engineering outside of class.
+Having been raised in the Bay Area, I decided to pursue my college education in SoCal. At UC San Diego, I am studying Computer Engineering and minoring in Music with a June 2021 expected graduation. Research, humanitarian-focused projects, and IEEE workshops have allowed me to develop my experience in computer science and engineering outside of class.
 
-Recently, I've worked as a summer Coding Coach at theCoderSchool and a teacher at Best Brains. I believe in passing on my knowledge while strengthening my communication skills.
+Recently, I've worked as a summer camp Coding Coach at theCoderSchool and a teacher at Best Brains. I believe in passing on my knowledge while strengthening my communication skills.
 
 I love producing music in my free time and watching and playing sports.
 
 
 # Highlights
 
-**ReMap** [`Swift & JavaScript`]
-- macOS interface that uses Accessibility APIs and speech recognition for contextual assistance in searching for learning videos and navigating them  
+**ReMap** [`Swift, JavaScript, & Accessibility + REST APIs`]
+- macOS interface that uses Accessibility APIs and speech recognition to provide contextual assistance in searching for learning videos and navigating them  
 
-**EMSTrack** [`Java, JavaScript, & XML`]
-- EMS dispatching system for Cruz Roja Tijuana's 13 ambulances that allowed for faster responses to emergencies and tracking relevant information
+**EMSTrack** [`Java, JavaScript, XML, REST APIs, & Django`]
+- EMS dispatching system for Cruz Roja Tijuana's 13 ambulances that allows for faster responses to emergencies and tracking relevant information such as equipment
 
-**TryClubs** [`Java & XML`]
+**TryClubs** [`Java, XML, & Agile framework`]
 - Android app that allows students to discover and advertise student organizations in order to improve the social environment 
 
 **& more! (under [Projects](/projects/projects.md))**
