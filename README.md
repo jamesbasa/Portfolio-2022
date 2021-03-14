@@ -31,4 +31,4 @@ I love producing music in my free time and watching and playing sports.
 **TryClubs** [`Java, XML, & Agile framework`]
 - Android app that allows students to discover and advertise student organizations in order to improve the social environment 
 
-**& more! (under [Projects](/projects/projects.md))**
+**& more! (under [Projects](/projects/projects.md) & [Publications](publications.md))**
