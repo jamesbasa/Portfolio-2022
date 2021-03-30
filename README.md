@@ -25,7 +25,7 @@ I love producing music in my free time and watching and playing sports.
 **ReMap** [`Utilized: JavaScript, NodeJS, Swift, Accessibility & REST APIs, Behavioral Research`]
 - multimodal search interface that uses Accessibility APIs and speech recognition to provide contextual assistance in searching for learning videos and navigating them
 
-**EMSTrack** [`Utilized: Java, JavaScript, XML, Android devel., REST APIs, Django models`]
+**EMSTrack** [`Utilized: Java, XML, Android devel., REST APIs, Django models`]
 - EMS dispatching system for Cruz Roja Tijuana's 13 ambulances that allows for faster responses to emergencies and tracking relevant information such as equipment inventory
 
 **TryClubs** [`Utilized: Java, XML, Agile framework, Android devel.`]
