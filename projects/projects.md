@@ -11,7 +11,7 @@ title: Projects
 Throughout college, I've been fortunate enough to create and contribute to several meaningful projects.
 
 Through UC San Diego's GlobalTies, my group developed the mobile and web components of the ambulance dispatching app **EMSTrack** for [Cruz Roja Tijuana](https://globalties.ucsd.edu/projects/cruz-roja-tijuana.html). Cruz Roja Tijuana benefited from this platform due to it solving their previous limitations stemming from radio communication to dispatch EMS. As Team Lead, I organized weekly meetings and oversaw collaboration between our development, UI prototype, and business subteams. Our work was especially significant in the spring since COVID-19 became widespread, as revealed in this [Fox article](https://fox5sandiego.com/news/border-report/uc-san-diego-professors-students-create-app-to-improve-tijuanas-ambulance-service/) and [Voice of San Diego article](https://www.voiceofsandiego.org/topics/news/border-report-tech-is-making-better-use-of-tijuanas-ambulances/). Check out the code [here](https://github.com/EMSTrack/CleanApp).<br/>
-[`Utilized: Java, JavaScript, XML, Android devel., REST APIs, Django`]
+[`Utilized: Java, XML, Android devel., REST APIs, Django models`]
 
 <img src="/projects/call_note.png" alt="EMSTrack Call Note" width="275"/>
 <img src="/projects/equipment_tab.png" alt="EMSTrack Equipment Tab" width="275"/>
