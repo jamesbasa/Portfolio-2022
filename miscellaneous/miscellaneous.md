@@ -1,9 +1,9 @@
 ---
 title: Miscellaneous
 ---
-[Projects](/projects/projects.md)  
-[Publications](/publications/publications.md)  
-[Miscellaneous](/miscellaneous/miscellaneous.md)  
+[Projects](../projects/projects.md)  
+[Publications](../publications/publications.md)  
+[Miscellaneous](/miscellaneous.md)  
 
 
 # Miscellaneous

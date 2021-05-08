@@ -2,8 +2,8 @@
 title: Projects
 ---
 [Projects](/projects.md)  
-[Publications](/publications/publications.md)  
-[Miscellaneous](/miscellaneous/miscellaneous.md)  
+[Publications](../publications/publications.md)  
+[Miscellaneous](../miscellaneous/miscellaneous.md)  
 
 
 # Projects
