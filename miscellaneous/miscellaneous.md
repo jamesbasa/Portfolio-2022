@@ -17,6 +17,7 @@ Outside of class I've been able to expand my programming knowledge through, for 
 - Learn SQL
 - Learn JavaScript
 - Learn Ruby
+- Learn Ruby on Rails
 
 **Certifications**
 - [Triplebyte Mobile-Android Certificate](https://triplebyte.com/tb/nathan-james-basa-ygvdkop/certificate/track/android): Scored in top 10% of test takers on the Triplebyte Assessment for Android Engineering
