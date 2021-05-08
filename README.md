@@ -7,8 +7,8 @@
 **Bold** and _Italic_ and `Code` text
 -->
 [Projects](/projects/projects.md)  
-[Publications](/publications.md)  
-[Miscellaneous](/miscellaneous.md)  
+[Publications](/publications/publications.md)  
+[Miscellaneous](/miscellaneous/miscellaneous.md)  
 
 
 # About Me
@@ -31,4 +31,4 @@ I love producing music in my free time and watching and playing sports.
 **TryClubs** [`Utilized: Java, XML, Agile framework, Android devel.`]
 - Android app that allows students to discover and advertise student organizations in order to improve the social environment 
 
-**& more! (under [Projects](/projects/projects.md) & [Publications](publications.md))**
+**& more! (under [Projects](/projects/projects.md) & [Publications](/publications/publications.md))**
