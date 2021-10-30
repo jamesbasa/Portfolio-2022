@@ -13,11 +13,11 @@
 
 # About Me
 
-Having been raised in the Bay Area, I decided to pursue my college education in SoCal. I recently received my B.S. in Computer Engineering from UC San Diego in June 2021 with a minor in Music. Research, humanitarian-focused projects, and IEEE workshops have allowed me to develop my experience in computer science and engineering outside of class.
+Having been raised in the Bay Area, I decided to pursue my college education in SoCal. I received my B.S. in Computer Engineering from UC San Diego in June 2021 with a minor in Music. Research, humanitarian-focused projects, and IEEE workshops have allowed me to develop my experience in computer science and engineering outside of class.
 
-I am excited to be working at MasterClass this summer as a Software Engineer, Back End Intern. Previously, I've worked as a summer camp Code Coach at theCoderSchool and as a teacher at Best Brains. I believe in passing on my knowledge and improving the lives of others through technology.
+I am excited to be working at MasterClass as a Software Engineer after contributing as an intern. Previously, I've worked as a summer camp Code Coach at theCoderSchool and as a teacher at Best Brains. I believe in passing on my knowledge and improving the lives of others through technology.
 
-I love producing music in my free time and watching and playing sports.
+In my free time, I love producing music and watching/playing sports.
 
 
 # Highlights
@@ -31,4 +31,4 @@ I love producing music in my free time and watching and playing sports.
 **TryClubs** [`Utilized: Java, XML, Agile framework, Android devel.`]
 - Android app that allows students to discover and advertise student organizations in order to improve the social environment 
 
-**& more! (under [Projects](/projects/projects.md) & [Publications](/publications/publications.md))**
+**& more under [Projects](/projects/projects.md) & [Publications](/publications/publications.md)**
