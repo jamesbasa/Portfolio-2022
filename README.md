@@ -13,9 +13,9 @@
 
 # About Me
 
-Having been raised in the Bay Area, I decided to pursue my college education in SoCal. I received my B.S. in Computer Engineering from UC San Diego in June 2021 with a minor in Music. Research, humanitarian-focused projects, and IEEE workshops have allowed me to develop my experience in computer science and engineering outside of class.
+Having been raised in the Bay Area, I decided to pursue my college education in sunny (UC) San Diego. I received my B.S. in Computer Engineering in June 2021 with a minor in Music. Highlights of my experience included research, humanitarian-focused projects, and IEEE workshops—all of which helped develop my interpersonal and development skills.
 
-I am excited to be working at MasterClass as a Software Engineer after contributing as an intern. Previously, I've worked as a summer camp Code Coach at theCoderSchool and as a teacher at Best Brains. I believe in passing on my knowledge and improving the lives of others through technology.
+I am currently helping to advance education at MasterClass as a Software Engineer after having contributed as an intern. Previously, I've worked as a summer camp Code Coach at theCoderSchool and as a teacher at Best Brains. I believe in passing on my knowledge and improving the lives of others through technology.
 
 In my free time, I love producing music and watching/playing sports.
 
@@ -29,6 +29,6 @@ In my free time, I love producing music and watching/playing sports.
 - EMS dispatching system for Cruz Roja Tijuana's 13 ambulances that allows for faster responses to emergencies and tracking relevant information such as equipment inventory
 
 **TryClubs** [`Utilized: Java, XML, Agile framework, Android devel.`]
-- Android app that allows students to discover and advertise student organizations in order to improve the social environment 
+- Android app that allows students to discover and advertise student organizations in order to improve the college's social environment
 
 **& more under [Projects](/projects/projects.md) & [Publications](/publications/publications.md)**
