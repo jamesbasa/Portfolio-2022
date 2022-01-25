@@ -1,7 +1,7 @@
 ---
 title: Miscellaneous
 ---
-[Projects](../projects/projects.md)  
+[College Projects](../college_projects/college_projects.md)  
 [Publications](../publications/publications.md)  
 [Miscellaneous](/miscellaneous.md)  
 

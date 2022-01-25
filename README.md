@@ -6,7 +6,7 @@
 [Link](url) and ![Image](src)
 **Bold** and _Italic_ and `Code` text
 -->
-[Projects](/projects/projects.md)  
+[College Projects](/college_projects/college_projects.md)  
 [Publications](/publications/publications.md)  
 [Miscellaneous](/miscellaneous/miscellaneous.md)  
 
@@ -31,4 +31,4 @@ In my free time, I love producing music and watching/playing sports.
 **TryClubs** [`Utilized: Java, XML, Agile framework, Android devel.`]
 - Android app that allows students to discover and advertise student organizations in order to improve the college's social environment
 
-**& more under [Projects](/projects/projects.md) & [Publications](/publications/publications.md)**
+**& more under [College Projects](/college_projects/college_projects.md) & [Publications](/publications/publications.md)**
