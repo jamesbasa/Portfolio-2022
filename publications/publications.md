@@ -1,10 +1,12 @@
 ---
 title: Publications
 ---
+[personal projects page]: ../personal_projects/personal_projects.md
 [college projects page]: ../college_projects/college_projects.md
 [publications page]: /publications.md
 [miscellaneous page]: ../miscellaneous/miscellaneous.md
 
+[Personal Projects][personal projects page]  
 [College Projects][college projects page]  
 [Publications][publications page]  
 [Miscellaneous][miscellaneous page]   

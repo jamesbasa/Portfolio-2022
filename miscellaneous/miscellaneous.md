@@ -1,10 +1,12 @@
 ---
 title: Miscellaneous
 ---
+[personal projects page]: ../personal_projects/personal_projects.md
 [college projects page]: ../college_projects/college_projects.md
 [publications page]: ../publications/publications.md
 [miscellaneous page]: /miscellaneous.md
 
+[Personal Projects][personal projects page]  
 [College Projects][college projects page]  
 [Publications][publications page]  
 [Miscellaneous][miscellaneous page]    
