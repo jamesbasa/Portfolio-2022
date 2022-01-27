@@ -35,4 +35,4 @@ In my free time, I love producing music and watching/playing sports.
 **TryClubs** [`Utilized: Java, XML, Agile framework, Android devel.`]
 - Android app that allows students to discover and advertise student organizations in order to improve the college's social environment
 
-**& more under [College Projects][college projects page] & [Publications][publications page]**
+**& more under [Personal Projects][personal projects page], [College Projects][college projects page], & [Publications][publications page]**
