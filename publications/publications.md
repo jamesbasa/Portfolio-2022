@@ -1,9 +1,13 @@
 ---
 title: Publications
 ---
-[College Projects](../college_projects/college_projects.md)  
-[Publications](/publications.md)  
-[Miscellaneous](../miscellaneous/miscellaneous.md)  
+[college projects page]: ../college_projects/college_projects.md
+[publications page]: /publications.md
+[miscellaneous page]: ../miscellaneous/miscellaneous.md
+
+[College Projects][college projects page]  
+[Publications][publications page]  
+[Miscellaneous][miscellaneous page]   
 
 
 # Publications
