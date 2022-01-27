@@ -10,9 +10,9 @@
 [publications page]: /publications/publications.md
 [miscellaneous page]: /miscellaneous/miscellaneous.md
 
-[College Projects][college projects page]
-[Publications][publications page]
-[Miscellaneous][miscellaneous page] 
+[College Projects][college projects page]  
+[Publications][publications page]  
+[Miscellaneous][miscellaneous page]   
 
 
 # About Me
