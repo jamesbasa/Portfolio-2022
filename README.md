@@ -10,7 +10,7 @@
 [publications page]: /publications/publications.md
 [miscellaneous page]: /miscellaneous/miscellaneous.md
 
-[College projects][college projects page]
+[College Projects][college projects page]
 [Publications][publications page]
 [Miscellaneous][miscellaneous page] 
 
