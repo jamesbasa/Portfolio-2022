@@ -6,7 +6,7 @@ title: College Projects
 [publications page]: ../publications/publications.md
 [miscellaneous page]: ../miscellaneous/miscellaneous.md
 
-[Personal Projects][personal projects page]
+[Personal Projects][personal projects page]  
 [College Projects][college projects page]  
 [Publications][publications page]  
 [Miscellaneous][miscellaneous page]  
