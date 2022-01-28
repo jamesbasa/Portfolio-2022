@@ -21,12 +21,15 @@ This web app uses carousels (lazy loading!), a navbar, and a router in order to 
 [`Utilized: ReactJS, React Router, React Bootstrap, React Slick`]
 
 <img src="/personal_projects/home-movies.png" alt="Favorites Gallery App Movies" width="500"/>
-<img src="/personal_projects/home-movies.png" alt="Favorites Gallery App Shows" width="500"/>
+<img src="/personal_projects/home-shows.png" alt="Favorites Gallery App Shows" width="500"/>
 
 ---
 ### Instagram Unfollow Bot
 This app fulfills a need that I saw in the community arising from the lack of a secure way to check who has unfollowed oneself on Instagram. Check out the app [here](https://github.com/jamesbasa/Instagram-Unfollow-Bot).<br/>
 [`Utilized: Python, Selenium, ChromeDriver`]
 
+<img src="/personal_projects/terminal.png" alt="Unfollower App Terminal" width="500"/>
+<img src="/personal_projects/unfollower.png" alt="Unfollower App Unfollower List" width="500"/>
+<img src="/personal_projects/example.png" alt="Unfollower App Example" width="500"/>
 
 Back to the [Home Page](/)
